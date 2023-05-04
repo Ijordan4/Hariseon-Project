@@ -17,4 +17,4 @@ THEN I find a concise, descriptive title
 ## Web page
 https://ijordan4.github.io/Horiseon-Project/
 
-
+![screenshot](/assets/images/screenshot_horiseon.jpg)
