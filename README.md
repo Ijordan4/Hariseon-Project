@@ -17,7 +17,7 @@ THEN I find a concise, descriptive title
 ## Repository 
 https://github.com/Ijordan4/Horiseon-Project
 
-## Web page
+## Webpage
 https://ijordan4.github.io/Horiseon-Project/
 
 ![screenshot](/assets/images/screenshot_horiseon.jpg)
