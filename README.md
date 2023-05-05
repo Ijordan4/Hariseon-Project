@@ -14,6 +14,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+## Repository 
+https://github.com/Ijordan4/Horiseon-Project
+
 ## Web page
 https://ijordan4.github.io/Horiseon-Project/
 
